@@ -3,6 +3,8 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 
 
 This model has the following steps:
+
+
 -First, we will start off by loading and viewing the dataset.
 
 
